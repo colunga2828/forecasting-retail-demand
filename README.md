@@ -94,6 +94,24 @@ prophet
 ```
 
 ---
+---
+
+## 📁 Project Structure
+
+```
+forecasting-retail-demand/
+├── dashboard/
+│   └── Forecast dashboard.png
+├── data/
+│   └── demanda_retail_ficticio.csv
+├── images/
+│   └── forecast_flow.png
+├── notebooks/
+│   └── forecasting_model.ipynb
+├── README.md
+├── requirements.txt
+```
+
 
 ## 👨‍💻 Author
 
