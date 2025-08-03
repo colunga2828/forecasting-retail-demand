@@ -29,6 +29,11 @@ A fictional retail company is experiencing frequent stockouts across its distrib
 
 ---
 
+## 🧭 Project Flow
+
+![Forecast Process](images/A_flowchart_infographic_illustrates_the_process_of.png)
+
+
 ## 🔮 Forecasting Model
 
 - Library: [Facebook Prophet](https://facebook.github.io/prophet/)
